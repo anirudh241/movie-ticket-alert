@@ -1,0 +1,22 @@
+
+{
+  "movie": "Avengers: Doomsday",
+  "cinema": "PVR City Center, Raipur",
+  "date": "2026-12-17",
+  "language": "English",
+  "format": "3D",
+  "shows": [
+    {
+      "time": "09:30 AM",
+      "session_id": "demo-001"
+    },
+    {
+      "time": "01:45 PM",
+      "session_id": "demo-002"
+    },
+    {
+      "time": "2:00 PM",
+      "session_id": "demo-003"
+    }
+  ]
+}
